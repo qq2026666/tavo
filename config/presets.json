@@ -53,15 +53,5 @@
     "variety": false,
     "suffix": "{artist:ratatatat74}, detailed, high quality, {{{glistening skin}}}, {{sweat}}, {wet skin}, {oily skin}, {detailed skin}, [skin texture], {{dramatic lighting}}, {{high contrast}}, {volumetric light}, {rim lighting}, {warm lighting}, soft shading, {detailed background}",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
-  },
-  "c_1770825525917": {
-    "name": "韩漫",
-    "suffix": "artsit:kirochy,0.8::mauchi_(lilllox)::,0.8::artsit:watersmile829, artist:pipopubebu,0.8::{love and deepspace}::, year2025 ,15::masterpiece, best quality, ultra-detailed::,1.3::cinematic lighting::,3.0::teenager,bjd dolly like delicate face,beautiful eyes,milky white skin,face feature,bjd dolly like lips, delicate eyelashes::1.1::monolid eyes, defined cheekbones::,3::sharp clean lineart:: 1.4::small nose tip, high nose 2::modern anime aesthetic, Korean anime,webtoon:: 1.1::desaturated palette::, 1.1::vibrant colors::",
-    "neg": "dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, 5::ugly, ugly face, bad face, poorly drawn face::, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, moles on the face, sharp teeth, deformed teeth,multiple views, logo, too many watermarks, negative space, blank page,lowres, jpeg artifacts, unfinished, scan, watermark, chromatic aberration, signature, username, artistic error, error, displeasing, very displeasing, abstract, deformed hands, extra hands,deformed feet, distorted body, unnatural body, asymmetrical limbs, floating limbs, disconnected limbs, blood vessel, western woman, western face,g error::,1.5::ray tracing artifact::,1.5::denoising failure::,1.5::subsurface scattering error::,1.5::specular aliasing::,1.5::z-fighting::,1.5::UV stretching::,1.6::anime::,1.6::cartoon::,1.6::Disney style::,1.6::Pixar style::,1.6::cel-shaded::,1.6::vector art::,1.5::plastic skin::,1.5::wax figure::,1.5::clay render::,1.5::oversaturated::,1.5::overexposed::,1.5::specular overflow::,1.5::PBR error::,1.6::watermark::,1.6::signature::,1.6::text::,1.6::username::,1.6::frame border::,1.5::motion blur::,1.5::chromatic aberration::,1.5::lens flare artifact::,1.5::vignetting::,1.5::facial asymmetry::,1.5::iris deformation::,1.5::disproportional philtrum::,1.5::elf ear::,1.5::doll joint::1.5::beard, mustache, cold light::",
-    "sampler": "k_dpmpp_2s_ancestral",
-    "steps": 28,
-    "scale": 6,
-    "smea": false,
-    "variety": false
   }
 }
