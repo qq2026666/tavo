@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1770868216135": {
+    "name": "韩漫薄涂",
+    "suffix": "Masterpiece, best quality, 8k, (artist:by ibuki satsuki:0.7), {artist:guangjian_huang}, (artist:rei_(sanbonzakura):0.6), (artist:hws:0.3),(artist:bm94199:0.7),artist:kirochy, artist:shal.e, love and deepspace, year 2025, Semi-thick coating, polished, (dark chinese style:1.2), thick hair, artwork, nsfw, CG, detailed background, tyndall effect, ethereal, (extremely pale skin:1.4), (porcelain skin:1.2), masterpiece, best quality, cinematic lighting, noir, low key, chiaroscuro,",
+    "neg": "3.8::wrinkled_skin,Fine Lines,::,{{text}},{bad id},{{bad pixiv id}}},{bad},{{{worst quality}}},3.8::extra fingers, multiple fingers (e.g., 6 fingers), extra digits::,jpeg artifacts,very bad quality,low resolution (lowres),blurry,watermark,signature,username,scan,unfinished,displeasing,chromatic aberration,artistic error,fewer elements,extra elements,missing elements,[abstract],deformed,distorted,bad anatomy,malformed,disfigured,extra limbs,mutated hands,missing limbs,fused faces,cloned face,ugly face,4::thick lines,bold outlines,heavy strokes,mosaic::,5::ugly face,poorly drawn face::,film grain,scan artifacts,dithering,halftone,screentone,multiple views,logo,too many watermarks,negative space,blank page,deformed hands,deformed feet,distorted body,unnatural body,asymmetrical limbs,floating limbs,disconnected limbs,blood vessel,western woman,western face,g error::,1.5::ray tracing artifact::,1.5::denoising failure::,1.5::subsurface scattering error::,1.5::specular aliasing::,1.5::z-fighting::,1.5::UV stretching::,1.5::plastic skin::,1.5::wax figure::,1.5::clay render::,1.5::oversaturated::,1.5::overexposed::,1.5::specular overflow::,1.5::PBR error::,1.6::frame border::,1.5::motion blur::,1.5::lens flare artifact::,1.5::vignetting::,1.5::facial asymmetry::,1.5::iris deformation::,1.5::disproportional philtrum::,1.5::elf ear::,1.5::doll joint::,3.8::mosaic,wrinkled_skin,Fine Lines,::",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
